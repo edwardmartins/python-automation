@@ -10,12 +10,8 @@ print(spam[:2]) # slice between first and second item
 print(spam[1:]) # slice between second and last item
 print(spam[:-1]) # slice between first and second last item
 print(spam[::-1]) # inverse the list
-print('----------------------------------')
-print('Making a list out of a string')
-characters = list('hello')
-print(characters)
-print('h' in characters)
-print('h' not in characters)
+print('car' in spam)
+print('car' not in spam)
 
 # For loop (index and value)
 supplies = ['pens', 'staplers', 'throwers', 'blinders']
