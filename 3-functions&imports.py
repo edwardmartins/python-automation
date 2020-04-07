@@ -1,5 +1,5 @@
 # 3) Functions and imports
-# -----------------------------------------------------------------------
+# ---------------------------------------------------------
 import pyperclip # single import
 import random, sys, os, math # multiple imports
 from random import randint # single function import

@@ -1,5 +1,5 @@
 # 7) Dictionaries
-# -----------------------------------------------------------------------
+# ---------------------------------------------------------
 # Dictionaries like lists are mutuable
 # Dictionaries have no order unlike lists
 myCat = {'size': 'fat', 'color': 'gray', 'disposition': 'loud', 'age':5 }

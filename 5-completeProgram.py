@@ -1,5 +1,5 @@
 # 5) Writting a complete program : Guess the number 
-# -----------------------------------------------------------------------
+# ---------------------------------------------------------
 import random
 
 print('Hello what is your name?')

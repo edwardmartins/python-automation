@@ -1,5 +1,5 @@
 # 4) Try and except statements
-# -----------------------------------------------------------------------
+# ---------------------------------------------------------
 def divBy(number,divideBY):
     try:
         return number / divideBY
