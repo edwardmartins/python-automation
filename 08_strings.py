@@ -1,4 +1,3 @@
-"""
 # Strings basics
 # --------------------------------------------------------
 # Symbols to write particular characters in a string
@@ -24,16 +23,13 @@ print(text[0])
 print(text[0:10])
 print('ALICE' in text.upper())
 
-"""
 # Strings methods
 # --------------------------------------------------------
 # strings are unmutable so we can't modified them 
 # but we can stored them in a new valu
 spam = 'Hello World'
-
 spam = spam.upper()
 print(spam)
-
 spam = spam.lower()
 print(spam)
 
