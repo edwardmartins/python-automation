@@ -33,7 +33,7 @@ myCat.setdefault('weight',10) # creates a pair if weight doesn't exist in dict
 
 # Short program that counts the characters in a string
 message = 'It was a bright cold day in April, and the clocks were striking thriteen'
-count = {} # letter, number of times its appear in te text
+count = {} # {letter, number of times that appears in the text}
 
 for char in message.upper():
     count.setdefault(char,0)
