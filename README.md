@@ -24,6 +24,8 @@ Book: https://automatetheboringstuff.com/
     * [Dictionaries](https://github.com/edwardmartins/Python-Automation/blob/master/7-dictionaries.py)
 * Section 8 -  Strings
     * [Strings](https://github.com/edwardmartins/Python-Automation/blob/master/08_strings.py)
+* Section 9 -  Running Programs from the Command Line
+    * [Command Line](https://github.com/edwardmartins/Python-Automation/blob/master/09_command_line.py)
 
 
 
