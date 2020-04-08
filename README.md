@@ -22,6 +22,8 @@ Book: https://automatetheboringstuff.com/
     * [Lists](https://github.com/edwardmartins/Python-Automation/blob/master/6-lists.py)
 * Section 7 -  Dictionaries
     * [Dictionaries](https://github.com/edwardmartins/Python-Automation/blob/master/7-dictionaries.py)
+* Section 8 -  Strings
+    * [Strings](https://github.com/edwardmartins/Python-Automation/blob/master/08_strings.py)
 
 
 
