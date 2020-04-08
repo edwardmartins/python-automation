@@ -6,8 +6,6 @@ Course: https://www.udemy.com/course/automate/
 
 Book: https://automatetheboringstuff.com/
 
-![python-logo](https://user-images.githubusercontent.com/36489953/78834570-0f5b2e80-79ef-11ea-8260-11a33e15fc1c.png)
-
 * Section 1 - Python Basics
     * [Hello world](https://github.com/edwardmartins/Python-Automation/blob/master/1-helloworld.py)
 * Section 2 - Flow Control
@@ -28,4 +26,5 @@ Book: https://automatetheboringstuff.com/
     * [Command Line](https://github.com/edwardmartins/Python-Automation/blob/master/09_command_line.py)
 
 
+![python-logo](https://user-images.githubusercontent.com/36489953/78834570-0f5b2e80-79ef-11ea-8260-11a33e15fc1c.png)
 
