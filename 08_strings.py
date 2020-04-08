@@ -12,9 +12,9 @@ print(text)
 print(r'That is Alice\'s cat')
 
 # Multiline string
-text =  ""Dear Alice.
+text =  """Dear Alice.
 Eve's cat has been arrested for catnapping, cat buglary,
-and extorsion""
+and extorsion"""
 print(text)
 
 # Strings uses indexes and slices like lists do
