@@ -1,6 +1,6 @@
 # Python-Automation
 
-### Repository with the exercises of the course automate the boring stuff with python in Udemy
+### Repository with the exercises of the course Automate the Boring Stuff with Python in Udemy
 
 Course: https://www.udemy.com/course/automate/
 
