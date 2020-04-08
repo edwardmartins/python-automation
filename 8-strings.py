@@ -1,4 +1,4 @@
-# Symbols to write particular chacarcters in a string
+# Symbols to write particular characters in a string
 text = 'That is Alice\'s cat \
     \n and this is a new line \
     \t and this is a tab'
