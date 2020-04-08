@@ -1,4 +1,4 @@
-# 3) Functions and imports
+# Functions and imports
 # ---------------------------------------------------------
 import pyperclip # single import
 import random, sys, os, math # multiple imports

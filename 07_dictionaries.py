@@ -1,4 +1,4 @@
-# 7) Dictionaries
+# Dictionaries
 # ---------------------------------------------------------
 # Dictionaries like lists are mutuable
 # Dictionaries have no order unlike lists

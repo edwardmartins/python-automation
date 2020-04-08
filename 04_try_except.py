@@ -1,4 +1,4 @@
-# 4) Try and except statements
+# Try and except statements
 # ---------------------------------------------------------
 def divBy(number,divideBY):
     try:

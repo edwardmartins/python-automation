@@ -1,4 +1,4 @@
-# 2) Flow control
+# Flow control
 # ---------------------------------------------------------
 # If-else
 password = 'swordfish'

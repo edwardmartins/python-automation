@@ -1,4 +1,4 @@
-# 6) Lists
+# Lists
 # ---------------------------------------------------------
 spam = ['car', 'bat', 'rat', 'elephant']
 print(spam)

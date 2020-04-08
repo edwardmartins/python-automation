@@ -1,4 +1,4 @@
-# 1) Introduction
+# Introduction
 # ---------------------------------------------------------
 print("Hello world")
 

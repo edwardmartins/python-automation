@@ -1,4 +1,4 @@
-# 5) Writting a complete program : Guess the number 
+# Writting a complete program : Guess the number 
 # ---------------------------------------------------------
 import random
 
