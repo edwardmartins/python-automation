@@ -6,7 +6,7 @@ Course: https://www.udemy.com/course/automate/
 
 Book: https://automatetheboringstuff.com/
 
-![pythonPhoto](https://user-images.githubusercontent.com/36489953/78730444-19bcf000-793d-11ea-844a-54b29a66e869.jpg)
+![python-logo](https://user-images.githubusercontent.com/36489953/78834570-0f5b2e80-79ef-11ea-8260-11a33e15fc1c.png)
 
 * Section 1 - Python Basics
     * [Hello world](https://github.com/edwardmartins/Python-Automation/blob/master/1-helloworld.py)
