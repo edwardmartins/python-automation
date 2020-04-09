@@ -19,7 +19,7 @@ Book: https://automatetheboringstuff.com/
 * Section 5 - Writing a Complete Program: Guess the Number
     * [Guess the Number](https://github.com/edwardmartins/Python-Automation/blob/master/05_guess_the_number.py)
 * Section 6 - Lists
-    * [Lists](https://github.com/edwardmartins/Python-Automation/blob/master/6-lists.py)
+    * [Lists](https://github.com/edwardmartins/Python-Automation/blob/master/06_lists.py)
 * Section 7 -  Dictionaries
     * [Dictionaries](https://github.com/edwardmartins/Python-Automation/blob/master/07_dictionaries.py)
 * Section 8 -  Strings
