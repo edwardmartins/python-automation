@@ -25,8 +25,8 @@ print('ALICE' in text.upper())
 
 # Strings methods
 # --------------------------------------------------------
-# strings are unmutable so we can't modified them 
-# but we can stored them in a new valu
+# Strings are unmutable so we can't modified them 
+# but we can stored them in a new value
 spam = 'Hello World'
 spam = spam.upper()
 print(spam)
@@ -41,34 +41,34 @@ print('123'.isdecimal()) # numbers only
 print('   '.isspace()) # whitespace only
 print('Title'.istitle()) # words that begins with uppercase and continues with lowercase
 
-# startswith and endswith (returns bools)
+# Startswith and endswith (returns bools)
 print('Hello world!'.startswith('Hello'))
 print('Hello world!'.endswith('world!'))
 
-# join method
+# Join method
 print(','.join(['cats', 'rats','bats'])) # combines all strings
 print(' '.join(['cats', 'rats','bats'])) 
 print('\n\n'.join(['cats', 'rats','bats'])) 
 
-# split method
+# Split method
 print('My name is Simon'.split()) # oposite of join
 print('My name is Simon'.split('m')) 
 
-# ljust, rjust (left justify and right justify) and center
+# Ljust, rjust (left justify and right justify) and center
 print('Hello'.rjust(20,'*')) 
 print('Hello'.ljust(20,'*')) 
 print('Hello'.center(20,'*')) 
 
-# strip, rstrip, lstrip (removes white spaces or any character)
+# Strip, rstrip, lstrip (removes white spaces or any character)
 print('     x      '.strip()) 
 print('     x      '.lstrip()) 
 print('     x      '.rstrip()) 
 
-# replace
+# Replace
 spam = 'Hello there'
 print(spam.replace('e', 'XYZ')) # replace every e with XYZ
 
-# pyperclip module (copy and paste functions that works with the computer clipboard)
+# Pyperclip module (copy and paste functions that works with the computer clipboard)
 import pyperclip
 pyperclip.copy('Heloooooo!!!!')
 print(pyperclip.paste())
