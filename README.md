@@ -26,6 +26,8 @@ Book: https://automatetheboringstuff.com/
     * [Strings](https://github.com/edwardmartins/Python-Automation/blob/master/08_strings.py)
 * Section 9 -  Running Programs from the Command Line
     * [Command Line](https://github.com/edwardmartins/Python-Automation/blob/master/09_command_line.py)
+ * Section 10 -  Regular Expressions
+    * [Regular Expressions](https://github.com/edwardmartins/Python-Automation/blob/master/10_regular_expressions.py)
 
 
 
