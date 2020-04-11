@@ -212,7 +212,7 @@ names_regex = re.compile(r'Agent (\w)\w*') # group 1 -> A or B
 res = names_regex.sub(r'Agent \1****',text) # \1 means use the text for group 1
 print(res)
 
-# Verbose format ( let you add white space and comments)
+# Verbose format (let you add white space and comments)
 # --------------------------------------------------------
 re.compile(r'''
 
