@@ -28,6 +28,7 @@ Book: https://automatetheboringstuff.com/
     * [Command Line](https://github.com/edwardmartins/Python-Automation/blob/master/09_command_line.py)
  * Section 10 -  Regular Expressions
     * [Regular Expressions](https://github.com/edwardmartins/Python-Automation/blob/master/10_regular_expressions.py)
+    * [Regex Example Program: A Phone and Email Scraper](https://github.com/edwardmartins/Python Automation/blob/master/10_phone_email_extractor.py)
 
 
 
