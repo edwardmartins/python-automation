@@ -81,13 +81,13 @@ print(spam)
 # Lists are mutable, tuples and strings are unmutable
 # To modidy a string you have to create a new string
 name = 'Zophie a cat'
-newName = name[0:7] + 'the' + name[8:12]
-print(newName)
+new_name = name[0:7] + 'the' + name[8:12]
+print(new_name)
 
 # Copies the whole list and creates a new reference
 import copy
 spam = ['a', 'b','c','d']
-spamCopy = copy.deepcopy(spam) 
-spamCopy[0] = 'z'
+spam_copy = copy.deepcopy(spam) 
+spam_copy[0] = 'z'
 print(spam)
-print(spamCopy)
+print(spam_copy)

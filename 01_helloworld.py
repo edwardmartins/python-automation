@@ -3,9 +3,9 @@
 print("Hello world")
 
 print("What is your name?")
-myName = input()
-print('It is good to meet you ' + myName)
-print('The length of your name is: ' + str(len(myName)))
+my_name = input()
+print('It is good to meet you ' + my_name)
+print('The length of your name is: ' + str(len(my_name)))
 
 print('What is your age?')
 myAge = input()

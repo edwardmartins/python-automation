@@ -12,9 +12,9 @@ print(divBy(42,0))
 print(divBy(42,1))
 
 print('How many cats do you have?')
-numCats = input()
+num_cats = input()
 try:
-    if int(numCats) >= 4:
+    if int(num_cats) >= 4:
         print('That a lot of cats')
     else:
         print('That is not that many cats')

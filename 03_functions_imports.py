@@ -25,5 +25,5 @@ hello('Bob')
 def plusOne(number):
     return number + 1
 
-newNumber = plusOne(5)
-print(newNumber)
+new_number = plusOne(5)
+print(new_number)
