@@ -131,3 +131,18 @@ shelf_file = shelve.open('my_data')
 print(shelf_file['cats'])
 print(list(shelf_file.keys()))
 print(list(shelf_file.values()))
+
+# Copying and Moving files and folders (shutil)
+# -------------------------------------------------------
+import shutil
+
+# Copy and move to another folder, you can rename the file too
+shutil.copy(r'C:\Users\edu\Desktop\hello.txt', r'C:\Users\edu\Desktop\IC')
+
+# Copy an entire folder
+shutil.copytree(r'C:\Users\edu\Desktop\IC', r'C:\Users\edu\Desktop\backup')
+
+# Move a file to a new location or rename a file
+shutil.move(r'C:\Users\edu\Desktop\hello.txt', r'C:\Users\edu\Desktop\hello3.txt')
+
+
