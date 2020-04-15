@@ -89,5 +89,5 @@ for f in file_names:
         total_size += os.path.getsize(f)
 print(total_size)
 
-# Creates new folders in a path given
+# Creates a new folder in a path given
 os.makedirs(r'C:\Users\edu\Desktop\folder_created')
