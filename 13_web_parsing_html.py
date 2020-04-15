@@ -1,3 +1,4 @@
+# https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 import bs4, requests
 
 # Probably blocking the requests because it doesn't come from browser
