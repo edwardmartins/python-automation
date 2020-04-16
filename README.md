@@ -27,7 +27,9 @@ Book: https://automatetheboringstuff.com/
 * Section 9 -  Running Programs from the Command Line
     * [Command Line](https://github.com/edwardmartins/Python-Automation/blob/master/09_command_line.py)
  * Section 10 -  Regular Expressions
-    * [Regular Expressions](https://github.com/edwardmartins/Python-Automation/blob/master/10_regular_expressions.py)
+    * [Regular Expression Basics](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_basics.py)
+    * [Regex Character Classes](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_classes.py)
+    * [Regex Patterns](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_patterns.py)
     * [Regex Example Program: A Phone and Email Scraper](https://github.com/edwardmartins/PythonAutomation/blob/master/10_phone_email_extractor.py)
 
 
