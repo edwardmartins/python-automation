@@ -45,6 +45,12 @@ Book: https://automatetheboringstuff.com/
     * [Reading and Editing Excel Spreadsheets](https://github.com/edwardmartins/Python-Automation/blob/master/14_excel_python.py)
     * [Reading and Editing PDFs](https://github.com/edwardmartins/Python-Automation/blob/master/14_pdf_python.py)
     * [Reading and Editing Word Documents](https://github.com/edwardmartins/Python-Automation/blob/master/14_word_python.py)
+ * Section 15 - Sending Emails and Checking Your Email Inbox
+    * [Sending Emails and Checking Your Email Inbox](https://github.com/edwardmartins/Python-Automation/blob/master/15_email_python.py)
+ * Section 16 -  GUI Automation
+    * [Controlling the Mouse from Python](https://github.com/edwardmartins/Python-Automation/blob/master/16_controlling_mouse.py)
+    * [Controlling the Keyboard from Python](https://github.com/edwardmartins/Python-Automation/blob/master/16_controlling_keyboard.py)
+    * [Screenshots and Image Recognition](https://github.com/edwardmartins/Python-Automation/blob/master/16_image_recognition.py)
 
 
 
