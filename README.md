@@ -26,11 +26,25 @@ Book: https://automatetheboringstuff.com/
     * [Strings](https://github.com/edwardmartins/Python-Automation/blob/master/08_strings.py)
 * Section 9 -  Running Programs from the Command Line
     * [Command Line](https://github.com/edwardmartins/Python-Automation/blob/master/09_command_line.py)
- * Section 10 -  Regular Expressions
+* Section 10 -  Regular Expressions
     * [Regular Expression Basics](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_basics.py)
     * [Regex Character Classes](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_classes.py)
     * [Regex Patterns](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_patterns.py)
     * [Regex Example Program: A Phone and Email Scraper](https://github.com/edwardmartins/Python-Automation/blob/master/10_phone_email_extractor.py)
+ * Section 11 -  Files
+    * [Filenames and Absolute/Relative File Paths](https://github.com/edwardmartins/Python-Automation/blob/master/11_files_paths.py)
+    * [Reading and Writing Plaintext Files](https://github.com/edwardmartins/Python-Automation/blob/master/11_files_read_write.py)
+    * [Copying, Deleting and Moving Files and Folders](https://github.com/edwardmartins/Python-Automation/blob/master/11_files_copy_delete.py)
+ * Section 12 -  Debugging
+    * [Debugging](https://github.com/edwardmartins/Python-Automation/blob/master/12_debugging.py)
+ * Section 13 -  Web Scraping
+    * [Downloading from the Web with the Requests Module](https://github.com/edwardmartins/Python-Automation/blob/master/13_web_downloading.py)
+    * [Parsing HTML with the Beautiful Soup Module](https://github.com/edwardmartins/Python-Automation/blob/master/13_web_parsing_html.py)
+    * [Controlling the Browser with the Selenium Module](https://github.com/edwardmartins/Python-Automation/blob/master/13_web_selenium.py)
+ * Section 14 -  Excel, Word, and PDF Documents
+    * [Reading and Editing Excel Spreadsheets](https://github.com/edwardmartins/Python-Automation/blob/master/14_excel_python.py)
+    * [Reading and Editing PDFs](https://github.com/edwardmartins/Python-Automation/blob/master/14_pdf_python.py)
+    * [Reading and Editing Word Documents](https://github.com/edwardmartins/Python-Automation/blob/master/14_word_python.py)
 
 
 
