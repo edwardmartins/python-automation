@@ -30,8 +30,7 @@ Book: https://automatetheboringstuff.com/
     * [Regular Expression Basics](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_basics.py)
     * [Regex Character Classes](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_classes.py)
     * [Regex Patterns](https://github.com/edwardmartins/Python-Automation/blob/master/10_regex_patterns.py)
-    * [Regex Example Program: A Phone and Email Scraper]
-    (https://github.com/edwardmartins/Python-Automation/blob/master/10_phone_email_extractor.py)
+    * [Regex Example Program: A Phone and Email Scraper](https://github.com/edwardmartins/Python-Automation/blob/master/10_phone_email_extractor.py)
 
 
 
